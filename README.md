@@ -1,7 +1,9 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Gustavo Gomes and my nickname is "Teufi"!
 🌱 I’m currently learning: PHP, HTML5, CSS and SQL
+
 📫 How to reach me: gusgomezcano@gmail.com
+
 ### Social Networks:
 
 <div>
